@@ -1,0 +1,6 @@
+sort book_id
+remove book_author:Peterson Davie
+add pos:2 book_id:12456, book_name:Programming and Data Structures, book_author:xxx
+add pos:0 book_id:12459, book_name:Programming and Data Structures, book_author:xyz
+add pos:-2 book_id:12456, book_name:Programming and Data Structures, book_author:xxx
+remove pos:2

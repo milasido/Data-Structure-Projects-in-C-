@@ -1,0 +1,4 @@
+sort book_id
+add pos:100 book_id:10044, book_name:Algorithms in C++, book_author:Robert Sedgewick
+add pos:0 book_id:10044, book_name:Algorithms in C++, book_author:Robert Sedgewick
+add pos:-1 book_id:30045, book_name:Algorithms in C++, book_author:Robert Sedgewick

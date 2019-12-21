@@ -1,0 +1,6 @@
+remove book_name:Data Structures Using C++
+remove book_author:Robert Sedgewick M
+remove book_id:10001
+remove book_id:10000
+remove book_author:Robert Sedgewick
+remove book_author:Robert Sedgewick

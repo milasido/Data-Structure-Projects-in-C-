@@ -1,0 +1,12 @@
+sort book_name
+sort book_author
+add pos:5 book_id:11011, book_name:Introduction to Algorithms, book_author:Thomas H. Cormen
+sort book_name
+add pos:5 book_id:11012, book_name:Introduction to Algorithms, book_author:Thomas H. Cormen
+sort book_name
+remove book_id:23423
+sort book_id
+remove book_id:52220
+remove book_id:66666
+remove pos:12
+remove pos:12

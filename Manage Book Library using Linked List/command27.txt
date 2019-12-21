@@ -1,0 +1,4 @@
+remove book_author:Peterson
+remove book_name:Data Structures Using C++
+remove book_author:Davie
+remove book_author:Thomas H. Cormen

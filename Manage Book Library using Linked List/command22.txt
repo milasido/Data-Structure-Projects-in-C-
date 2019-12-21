@@ -1,0 +1,2 @@
+add pos:2 book_id:12452, book_name:Introduction to Algorithms, book_author:Thomas H. Cormen
+remove book_author:Peterson Davie

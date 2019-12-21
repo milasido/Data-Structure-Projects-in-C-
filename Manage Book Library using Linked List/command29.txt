@@ -1,0 +1,4 @@
+sort book_name
+add pos:2 book_id:12456, book_name:Programming and Data Structures, book_author:xxx
+add pos:2 book_id:12456, book_name:Programming and Data Structures, book_author:xxx
+sort book_author
